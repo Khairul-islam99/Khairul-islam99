@@ -1,4 +1,3 @@
-![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif)
 <h1 align="center">Hi 👋, I'm Md. Khairul Islam</h1>
 <h3 align="center">"A passionate Machine Learning and Deep Learning Enthusiast exploring the potential of AI to solve real-world challenges."</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif">
@@ -14,7 +13,7 @@
 
 - 💬 Ask me about **Deep Learning, Machine Learning, and Python**
 
-- 📫 How to reach me **khairulbdbboss20031@gmail.com**
+- 📫 How to reach me **bdkhairul402@gmail.com**
 
 - ⚡ Fun fact **Machine learning makes me see patterns everywhere—even in my daily life!**
 
@@ -55,8 +54,3 @@
   <a href="https://gradio.app/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/69015220?s=200&v=4" alt="Gradio" width="40" height="40"/> </a>
   <a href="https://streamlit.io/" target="_blank"> <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg" alt="Streamlit" width="90" height="40"/> </a>
 </p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khairul-islam99&show_icons=true&locale=en&layout=compact" alt="khairul-islam99" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khairul-islam99&show_icons=true&locale=en" alt="khairul-islam99" /></p>
