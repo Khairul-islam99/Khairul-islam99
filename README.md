@@ -1,76 +1,84 @@
 <div align="center">
-  <h1>Hi 👋, I'm Md. Khairul Islam</h1>
-  <h3>
-    AI Engineer | Specializing in LLMs, RAG & Agentic AI Systems
-  </h3>
-  
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=Khairul-islam99&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  </p>
-
-  <p>
-    <a href="https://khairul-islam99.github.io/portfolio/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
-    </a>
-    <a href="https://www.linkedin.com/in/khairulislam25/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://www.kaggle.com/khairulislam25" target="_blank">
-      <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" />
-    </a>
-    <a href="mailto:bdkhairul402@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Md+Khairul+Islam;Machine+Learning+Engineer;Specializing+in+LLMs+%26+RAG;Building+Intelligent+AI+Agents" alt="Typing SVG" />
 </div>
+
+<h3 align="center">Machine Learning Engineer | AI & Multimodal Systems</h3>
+
+<p align="center">
+  <a href="https://khairul-islam99.github.io/portfolio/" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/khairulislam25/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://www.kaggle.com/khairulislam25" target="_blank">
+    <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
+  </a>
+  <a href="mailto:bdkhairul402@gmail.com" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=khairul-islam99&label=Profile%20views&color=0ea5e9&style=flat" alt="Profile views" />
+</p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 **Currently working at:** **NeovoTech Limited** as an **AI Engineer**
-- 🤖 **Expertise:** Large Language Models (LLMs), RAG Architectures, Agentic AI, Fine-tuning (LoRA, SFT)
-- 🧠 **Hands-on with:** Model training, evaluation, deployment, and building autonomous AI agent workflows
-- 🔧 **Automation & Agents:** n8n workflows, MCP-based AI integrations, Context-aware dialogue management
-- 🌱 **Currently exploring:** Advanced Multi-Agent Systems, scalable AI APIs, and Multimodal GenAI
-- 👯 **Open to collaborate on:** LLM, RAG, Multi-Agent Systems, NLP, and Deep Learning projects
-- 🤝 **Looking for:** Advanced research & production-grade AI challenges
-- 💬 **Ask me about:** LLMs, Agentic AI, RAG, Fine-tuning, NLP, FastAPI, Docker
-- ⚡ **Fun fact:** I analyze real life like a dataset—patterns everywhere 😄
+- 🔭 Currently working at **NeovoTech Limited** as a **Machine Learning Engineer**
+- 🧠 Specialize in **Large Language Models (LLMs), RAG Architectures, Agentic AI,** and **Fine-tuning (LoRA, SFT)**
+- 🚀 Hands-on experience in building autonomous AI agent workflows and production-grade **FastAPI** microservices
+- 💡 Exploring advanced Multi-Agent Systems, scalable AI APIs, and Multimodal GenAI
+- 💬 Ask me about **LLMs, Agentic AI, RAG, NLP, Docker,** and **AWS**
+- 📫 Reach me at: **bdkhairul402@gmail.com**
 
 ---
 
-### 🛠️ Languages, Tools & Technologies
+### 🛠️ Skills and Expertise 💪 
 
-**AI, RAG & Agents** <br>
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-8A2BE2?style=for-the-badge&logo=robot&logoColor=white)
-![RAG Architecture](https://img.shields.io/badge/RAG_Architecture-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+**🌐 Languages** - Python, SQL, Bash.
 
-**Data Science & NLP** <br>
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+**🧠 AI & Machine Learning** - PyTorch, TensorFlow, Scikit-Learn, Hugging Face, Transformers, PEFT, Unsloth, Pandas, NumPy.
 
-**Backend, DevOps & Workflow** <br>
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-FF6666?style=for-the-badge&logo=n8n&logoColor=white)
+**🤖 LLMs & Agents** - Fine-tuning (LoRA, QLoRA, SFT), RAG, LangChain, LlamaIndex, OpenAI, Agentic AI, Prompt Engineering, Multimodal GenAI (Qwen-VL).
+
+**👁️ Multimodal Systems** - OCR (Bangla & English), Speech-to-Text (STT), Text-to-Speech (TTS), Image Processing, Multilingual Chatbots.
+
+**🚀 Backend** - FastAPI, REST API, PostgreSQL, Vector DBs.
+
+**⚡ DevOps & Automation** - Docker, Git, GitHub Actions, n8n Workflow Automation, MCP-based AI integrations.
+
+**☁️ Cloud Services** - AWS.
 
 ---
 
-### 📈 GitHub Analytics
+### 🛠️ Tech Stack & Tools
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Khairul-islam99&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khairul-islam99&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khairul-islam99&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
-</div>
+**Programming & Frameworks**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,scikitlearn,fastapi,docker,aws,postgres,git,github&perline=10" />
+  </a>
+</p>
+
+**AI, LLMs & Agents**
+<p align="left">
+  <img src="https://img.shields.io/badge/Agentic_AI-8A2BE2?style=flat-square&logo=robot&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG_Architecture-FF9D00?style=flat-square&logo=huggingface&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-FF6666?style=flat-square&logo=n8n&logoColor=white" />
+</p>
+
+---
+
+### 📊 Statistics
+
+<p align="center">
+  <a href="https://github.com/Khairul-islam99">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=khairul-islam99&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=khairul-islam99&layout=compact&langs_count=8&theme=gotham"/>
+  </a>
+</p>
