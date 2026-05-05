@@ -1,69 +1,76 @@
-<h1 align="left">Hi 👋, I'm Md. Khairul Islam</h1>
+<div align="center">
+  <h1>Hi 👋, I'm Md. Khairul Islam</h1>
+  <h3>
+    AI Engineer | Specializing in LLMs, RAG & Agentic AI Systems
+  </h3>
+  
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=Khairul-islam99&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  </p>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif">
+  <p>
+    <a href="https://khairul-islam99.github.io/portfolio/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://www.linkedin.com/in/khairulislam25/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://www.kaggle.com/khairulislam25" target="_blank">
+      <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" />
+    </a>
+    <a href="mailto:bdkhairul402@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+</div>
 
-<h3 align="left">
-An AI Engineer passionate about Large Language Models (LLMs), Deep Learning, and building intelligent systems that solve real-world problems.
-</h3>
+---
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=khairul-islam99&label=Profile%20views&color=0e75b6&style=flat" alt="khairul-islam99 profile views" />
-</p>
+### 👨‍💻 About Me
 
 - 🔭 **Currently working at:** **NeovoTech Limited** as an **AI Engineer**
-- 🤖 **Expertise:** Large Language Models (LLMs), Fine-tuning (LoRA, SFT), Deep Learning, NLP
-- 🧠 **Hands-on with:** Model training, evaluation, deployment, and AI agent workflows
-- 🔧 **Automation & Agents:** n8n workflows, MCP-based AI integrations
-- 🌱 **Currently exploring:** Advanced LLM systems, RAG, AI Agents, scalable AI APIs
-- 👯 **Open to collaborate on:** LLM, AI Agent, NLP, and Deep Learning projects
+- 🤖 **Expertise:** Large Language Models (LLMs), RAG Architectures, Agentic AI, Fine-tuning (LoRA, SFT)
+- 🧠 **Hands-on with:** Model training, evaluation, deployment, and building autonomous AI agent workflows
+- 🔧 **Automation & Agents:** n8n workflows, MCP-based AI integrations, Context-aware dialogue management
+- 🌱 **Currently exploring:** Advanced Multi-Agent Systems, scalable AI APIs, and Multimodal GenAI
+- 👯 **Open to collaborate on:** LLM, RAG, Multi-Agent Systems, NLP, and Deep Learning projects
 - 🤝 **Looking for:** Advanced research & production-grade AI challenges
-- 💬 **Ask me about:** LLMs, Fine-tuning, Deep Learning, NLP, AI Agents, Python
-- 📫 **Reach me at:** **bdkhairul402@gmail.com**
+- 💬 **Ask me about:** LLMs, Agentic AI, RAG, Fine-tuning, NLP, FastAPI, Docker
 - ⚡ **Fun fact:** I analyze real life like a dataset—patterns everywhere 😄
 
-<br>
+---
 
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-  <a href="https://khairul-islam99.github.io/portfolio/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/khairulislam25/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.kaggle.com/khairulislam25" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" />
-  </a>
-</p>
+### 🛠️ Languages, Tools & Technologies
 
-<br>
+**AI, RAG & Agents** <br>
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-8A2BE2?style=for-the-badge&logo=robot&logoColor=white)
+![RAG Architecture](https://img.shields.io/badge/RAG_Architecture-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-<h3 align="left">🛠️ Languages, Tools & Technologies:</h3>
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45" alt="Python"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="45" height="45" alt="Bash"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="45" height="45" alt="PyTorch"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="45" height="45" alt="TensorFlow"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45" alt="Scikit-Learn"/> &nbsp;
-  <img src="https://cdn.simpleicons.org/huggingface/FF9D00" width="45" height="45" alt="HuggingFace"/> &nbsp;
-  <img src="https://cdn.simpleicons.org/openai/412991" width="45" height="45" alt="OpenAI"/> &nbsp;
-  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="45" height="45" alt="LangChain"/> &nbsp;
-  <img src="https://cdn.simpleicons.org/n8n/FF6666" width="45" height="45" alt="n8n"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="45" height="45" alt="FastAPI"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
-</p>
+**Data Science & NLP** <br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-<br>
+**Backend, DevOps & Workflow** <br>
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6666?style=for-the-badge&logo=n8n&logoColor=white)
 
-<h3 align="center">📈 GitHub Analytics</h3>
+---
+
+### 📈 GitHub Analytics
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khairul-islam99&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khairul-islam99&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Khairul-islam99&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khairul-islam99&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khairul-islam99&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khairul-islam99&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
 </div>
